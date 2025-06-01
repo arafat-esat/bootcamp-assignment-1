@@ -1,0 +1,95 @@
+.poppins-font {
+     font-family: "Poppins", sans-serif;
+}
+
+.nav {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     margin: 15px 60px 15px 60px;
+     background-color: #FFFFFF;
+}
+
+.nav h2 span {
+     color: #FFA500;
+}
+
+.nav h2 {
+
+     font-size: 18px;
+     font-weight: 800;
+     color: #0D1321;
+}
+
+.btn {
+     background-image: linear-gradient(#FFA500, #FFD447);
+     opacity: 0.8;
+     padding: 12px 17px 12px 17px;
+     border-radius: 7px;
+     border: none;
+     font-size: 14px;
+     font-weight: 800;
+     cursor: pointer;
+}
+
+.header-section {
+     background-image: linear-gradient(#E6E6FA, #B8E7FA);
+     padding: 70px 0;
+}
+
+.header {
+     max-width: 890px;
+     padding: 30px 45px 30px 45px;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     border-radius: 25px;
+     background-color: #E6EDF9;
+     margin: 15px 60px 15px 60px;
+}
+
+.main-section-title {
+     text-align: center;
+     margin-bottom: 34px;
+     
+}
+.main-box{
+     margin: 70px 0;
+}
+
+.main-section-title h1 {
+     font-size: 22px;
+     font-weight: 800;
+}
+
+.main-section-title p {
+     font-size: 12px;
+}
+
+.main-section {
+     max-width: 890px;
+     background-color: #E6EDF9;
+     border-radius: 12px;
+     display: flex;
+     justify-content: center;
+     margin: 15px 60px 15px 60px;
+     padding: 34px;
+
+
+}
+
+.main-box-section-tilte {
+     margin: 75px 0;
+     max-width: 513px;
+}
+.video-section{
+     text-align: center;
+     padding: 25px;
+     border: 1px solid #0D1321;
+     border-radius: 12px;
+
+}
+.video-section-box{
+     text-align: center;
+     border-radius: 12px;
+}
